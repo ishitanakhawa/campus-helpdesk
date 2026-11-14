@@ -1,0 +1,13 @@
+batch,day,start_time,end_time,course,subject,room,faculty
+CSE-JB-2,Monday,09:00,10:00,BTech CSE,Data Structures,Room 201,Prof. Sharma
+CSE-JB-2,Monday,10:15,11:15,BTech CSE,Database Management Systems,Room 202,Prof. Mehta
+CSE-JB-2,Monday,11:30,12:30,BTech CSE,Python Programming,Lab 1,Prof. Patel
+CSE-JB-2,Tuesday,09:00,10:00,BTech CSE,Computer Networks,Room 203,Prof. Rao
+CSE-JB-2,Tuesday,10:15,11:15,BTech CSE,Data Structures,Room 201,Prof. Sharma
+CSE-JB-2,Tuesday,11:30,12:30,BTech CSE,Mathematics,Room 204,Prof. Desai
+CSE-JB-2,Wednesday,09:00,10:00,BTech CSE,Java Programming,Lab 2,Prof. Kulkarni
+CSE-JB-2,Wednesday,10:15,11:15,BTech CSE,Database Management Systems,Room 202,Prof. Mehta
+CSE-JB-2,Thursday,09:00,10:00,BTech CSE,Computer Networks,Room 203,Prof. Rao
+CSE-JB-2,Thursday,10:15,11:15,BTech CSE,Mathematics,Room 204,Prof. Desai
+CSE-JB-2,Friday,09:00,10:00,BTech CSE,Data Structures,Room 201,Prof. Sharma
+CSE-JB-2,Friday,10:15,11:15,BTech CSE,Python Programming,Lab 1,Prof. Patel

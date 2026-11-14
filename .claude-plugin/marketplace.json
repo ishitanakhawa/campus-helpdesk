@@ -1,0 +1,16 @@
+{
+  "name": "campus-helpdesk-marketplace",
+  "owner": {
+    "name": "Ishita Nakhawa"
+  },
+  "metadata": {
+    "description": "Local marketplace for the Campus Helpdesk plugin."
+  },
+  "plugins": [
+    {
+      "name": "campus-helpdesk",
+      "source": "./plugins/campus-helpdesk",
+      "description": "A campus assistance plugin with timetable support, a custom slash command and a protected-folder hook."
+    }
+  ]
+}

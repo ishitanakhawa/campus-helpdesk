@@ -1,0 +1,8 @@
+{
+  "name": "campus-helpdesk",
+  "version": "1.0.0",
+  "description": "A campus assistance plugin that helps students find timetable information using an approved CSV file.",
+  "author": {
+    "name": "Ishita Nakhawa"
+  }
+}

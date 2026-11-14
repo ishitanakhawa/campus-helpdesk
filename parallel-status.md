@@ -1,3 +1,3 @@
 Parallel Development Status
-Updated by: feature/mcp-server
-Status: MCP server development is in progress.
+Updated by: feature/skill-tests and feature/mcp-server
+Status: Skill testing and MCP server development are both in progress.
